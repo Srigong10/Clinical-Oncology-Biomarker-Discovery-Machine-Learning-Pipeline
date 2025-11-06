@@ -50,7 +50,7 @@ Comparing:
 
 ---
 
-### 6. Analyze the Protein Structure
+### 6. Analyzing the Protein Structure
 The **structural and functional features** of the protein:
 - α-helices, β-sheets, and loops  
 - Active sites and binding pockets  
