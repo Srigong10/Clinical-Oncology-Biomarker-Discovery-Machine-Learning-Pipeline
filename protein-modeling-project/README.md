@@ -72,7 +72,7 @@ The **structural and functional features** of the protein:
 | `Swiss_model_p53.pdb` | Structure predicted using SWISS-MODEL |
 | `AlphaFold_model_p53.pdb` | Structure predicted using AlphaFold | 
 | `visualization_screenshots/` | PyMOL screenshots |
-| `report.pdf` | Comparative analysis and discussion | 
+| `report.md` | Comparative analysis and discussion | 
 
 Conclusion on which method (Homology Modeling or AlphaFold) produced a more accurate and biologically meaningful structure.
 
