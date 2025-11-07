@@ -43,34 +43,20 @@ Downloading the predicted model and preparing it for visualization.
 Visualizing both structures using:
 - PyMOL
 
-Comparing:
-- Secondary structure elements  
-- Binding sites and domains  
-- Structural variations between models  
-
 ---
 
-### 6. Analyzing the Protein Structure
-The **structural and functional features** of the protein:
-- α-helices, β-sheets, and loops  
-- Active sites and binding pockets  
-- Potential implications for cancer-related pathways  
-
----
-
-### 7. Evaluating Modeling Techniques
+### 6. Evaluating Modeling Techniques
 - Accuracy of each modeling technique  
 - Coverage of the protein structure  
-- Functional insights derived  
-- Advantages and limitations of each method
 
 ## 📂 /data
 | File name | Description |
 |------|--------------|
-| `protein_sequence.fasta` | FASTA sequence of p53 form RCSB-PDB |
 | `4D1M_p53structure.pdb` | PDB structure file of p53 from RCSB-PDB |
-| `Swiss_model_p53.pdb` | Structure predicted using SWISS-MODEL |
 | `AlphaFold_model_p53.pdb` | Structure predicted using AlphaFold | 
+| `Swiss_model_p53.pdb` | Structure predicted using SWISS-MODEL |
+| `protein_sequence.fasta` | FASTA sequence of p53 form RCSB-PDB |
+| `results.md` | Report of the analysis |
 | `PyMol_Images/` | PyMOL images |
 | `results.md` | Comparative analysis and discussion | 
 
